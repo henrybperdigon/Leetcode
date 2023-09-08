@@ -14,3 +14,8 @@ class Solution {
         
     }
 }
+
+// Create a dummy node (to evaluate the head node)
+// evaluate if next node == val, skip 
+// return next node to dummy
+
