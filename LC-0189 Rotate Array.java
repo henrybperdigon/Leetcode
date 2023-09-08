@@ -19,3 +19,10 @@ class Solution {
             }
     }
 }
+
+
+/**
+1. Reverse the whole array.
+2. Reverse the first k elements
+3. Reverse the k+1 elements
+*/
